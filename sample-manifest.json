@@ -1,0 +1,12 @@
+{
+  "export_job_id": "8e115db2-c46b-4806-b285-6729fd5d67b0",
+  "id_short": 176124,
+  "published_at": "2026-04-11T07:04:25Z",
+  "repo_name": "all-restaurants-in-amarillo-texas-us-sample-176124",
+  "sample_asset_name": "beamstation_176124_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/176124/beamstation_176124_restaurants-us-tx_SAMPLE_DIST.csv",
+  "sample_records": 64,
+  "sample_sha256": "ee6c82ff011e4b718fae9e45edbee3ac73aaba649e40b72f43fb38c16e9cf424",
+  "sample_size_bytes": 246797,
+  "total_records": 649
+}
