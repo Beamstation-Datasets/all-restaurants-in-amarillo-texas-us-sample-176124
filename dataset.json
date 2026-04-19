@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Local dining market data for Amarillo in the Lone Star State, a growing city of 200k+. Filtered by the Restaurants category group with business profiles, ratings, competitive metrics, and contact details. Refreshed weekly.",
   "config_name": "All Restaurants in Amarillo, Texas, US",
-  "export_job_id": "8e115db2-c46b-4806-b285-6729fd5d67b0",
+  "export_job_id": "a191b1b0-d176-43aa-8441-78d0b0b27018",
   "github_org": "Beamstation-Datasets",
   "id_short": 176124,
   "location_name": "Amarillo",
   "location_type": "city",
   "repo_name": "all-restaurants-in-amarillo-texas-us-sample-176124",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/176124/beamstation_176124_restaurants-us-tx_SAMPLE_DIST.csv",
-  "sample_pct": 9.86,
+  "sample_pct": 9.88,
   "sample_records": 64,
-  "sample_sha256": "ee6c82ff011e4b718fae9e45edbee3ac73aaba649e40b72f43fb38c16e9cf424",
-  "sample_size_bytes": 246797,
-  "total_records": 649,
-  "updated_at": "2026-04-09T12:10:01.887123+00:00"
+  "sample_sha256": "55df6a5a5e12a791b13352afa76076e2e40161816b716deec80c4d3d27d0a464",
+  "sample_size_bytes": 246150,
+  "total_records": 648,
+  "updated_at": "2026-04-16T12:06:55.230344+00:00"
 }
